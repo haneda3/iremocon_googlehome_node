@@ -1,0 +1,17 @@
+{
+  "name": "iremocon_googlehome_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "firebase": "^4.8.1",
+    "iremocon": "0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "haneda3",
+  "license": "ISC"
+}
